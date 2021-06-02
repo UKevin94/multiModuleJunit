@@ -5,7 +5,7 @@ import org.squashtest.ta.galaxia.squash.tf.galaxia.annotations.TFMetadata;
 
 import static org.junit.Assert.assertTrue;
 
-public class Module1Class {
+public class Module1ClassTest {
 
     @Test
     @TFMetadata( key = "m1_meta1", value = "m1_value1")

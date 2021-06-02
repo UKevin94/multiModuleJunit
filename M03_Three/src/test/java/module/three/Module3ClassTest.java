@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.squashtest.ta.galaxia.squash.tf.galaxia.annotations.TFMetadata;
 
-public class Module3Class {
+public class Module3ClassTest {
 
     @Test
     @TFMetadata(key = "m3meta1")

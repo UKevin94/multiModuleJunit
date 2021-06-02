@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.squashtest.ta.galaxia.squash.tf.galaxia.annotations.TFMetadata;
 
-public class Module2Class2 {
+public class Module2Class2Test {
 
     @Test
     @TFMetadata(key = "otherClass", value = "otherClassValue")
